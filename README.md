@@ -18,12 +18,16 @@ const Fortune = {
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     Technologies: {
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["React", "Next" "Typescript"],
+            css: ["SASS", "Material UI", "Bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["node", "express", ],
+            python: ["flask" "Django"]
+        },
+        Blockchain: {
+            Smart Contracts: ["Solidity", "Web3 js", "Ether Js" ],
+            
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
