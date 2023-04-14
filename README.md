@@ -1,28 +1,77 @@
-### Hi! 👋
+<h2>नमस्ते (Namaste)🙏🏻, I'm Fortune Eso! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Arturs Smirnovs">
+![Twitter Follow](https://twitter.com/DevvFortune)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/fortune-eso-636b6018a/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-I'm Fortune and i'm full stack web / Blockchain developer with more then 4 years experience.
-I have been working in various fields, starting from crypto currency, finances and ending with human resources.
-I have always been hard working and goal's focused with proven results.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-#### TECH STACK
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["React", "Next" "Typescript],
+            css: ["material UI", "SASS", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+           python: ["flask","Django"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-Python / MYSQL / SOLR / FLUTTER / DART / JS / NODE JS / JQUERY / HTML / CSS / SCSS / LESS / BOOSTRAP / LARAVEL / YII2 / CODIGNITER / UNIX / GITHUB / SVN / APACHE / NGINX / REST API / NATIVE SCRIPT / AZURE / GOOGLE API's
-
-##### MOTTO
-
-> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
-
-####
-
-<a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/artuurssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-⭐️ FORTUNE
+<!--START_SECTION:waka-->
+**I'm an early 🐤** 
+
+```text
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Asia/Calcutta
+
+💬 Languages: 
+JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
+Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
+React                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
+Solidity                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
+Typescript                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
+
+🔥 Editors: 
+WebStorm                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
+PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
+PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
+
+💻 Operating Systems: 
+Windows                  17 hrs 5 mins       █████████████████████████   100.0%
+
+```
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
