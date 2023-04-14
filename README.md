@@ -15,7 +15,7 @@
 const Fortune = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "React", "Solidity"],
-    askMeAbout: ["web dev", "tech", "Brand Design", "Blockchain and Smart contracts"],
+    askMeAbout: ["web dev", "Tech", "Brand Design", "Blockchain and Smart contracts"],
     Technologies: {
         frontEnd: {
             js: ["React", "Next" "Typescript"],
