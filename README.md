@@ -1,4 +1,5 @@
 ## Hello World!
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=michealfortunatus&show_icons=true"/>](https://github.com/michealfortunatus/)
 
@@ -21,7 +22,7 @@
 <br />
 
 ## This is Kazi Amit Hasan!
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 
 I'm Arturs and i'm full stack web / app developer with more then 10 years experience.
