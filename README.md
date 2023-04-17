@@ -1,36 +1,35 @@
 ## Hello World!
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=michealfortunatus&show_icons=true"/>](https://github.com/michealfortunatus/)
 
 <a href="https://www.linkedin.com/in/kazi-amit-hasan/">
-  <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="fortune's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/AmitHasanShuvo">
-  <img align="left" alt="Shuvo's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCES_2FWYQbgyikzxCQ_oOVQ?view_as=subscriber">
-  <img align="left" alt="Shuvo's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+<a href="https://github.com/michealfortunatus">
+  <img align="left" alt="fortune's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <a href="https://www.kaggle.com/amithasanshuvo">
-  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+  <img align="left" alt="fortune's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
 </a>
-<a href="https://www.researchgate.net/profile/Kazi_Amit_Hasan">
-  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/researchgate.svg" />
-</a>
+
 <br />
 
-## This is Kazi Amit Hasan!
+## This is Fortune Eso!
 
 
 
-I'm Arturs and i'm full stack web / app developer with more then 10 years experience.
+I'm Fortune and i'm full stack web / blockchain developer with more than 4 years experience.
 I have been working in various fields, starting from crypto currency, finances and ending with human resources.
 I have always been hard working and goal's focused with proven results.
 
-#### TECH STACK
+## TECH STACK
+#### Frontend Development :Javascript / ReactJS / NextJS /Typescript /SASS /SCSS / Bootstrap / Git and version Control /API
+#### Backened Development : Python / NodeJS / Django /Flask / MongoDB / ExpressJS
+#### Blockchain Development : Solidity / Web3 JS / Ether JS /Smart contracts
 
-PHP / MYSQL / SOLR / FLUTTER / DART / JS / NODE JS / JQUERY / HTML / CSS / SCSS / LESS / BOOSTRAP / LARAVEL / YII2 / CODIGNITER / UNIX / GITHUB / SVN / APACHE / NGINX / REST API / NATIVE SCRIPT / AZURE / GOOGLE API's
+
+
 
 
