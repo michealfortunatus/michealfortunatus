@@ -1,29 +1,36 @@
-### Hi! 👋
+## Hello World!
 
-<img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Arturs Smirnovs">
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
 
-I'm Arturs and i'm full stack web / app developer with more then 10 years experience.
-I have been working in various fields, starting from crypto currency, finances and ending with human resources.
-I have always been hard working and goal's focused with proven results.
+<a href="https://www.linkedin.com/in/kazi-amit-hasan/">
+  <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/AmitHasanShuvo">
+  <img align="left" alt="Shuvo's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCES_2FWYQbgyikzxCQ_oOVQ?view_as=subscriber">
+  <img align="left" alt="Shuvo's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+</a>
 
-#### TECH STACK
+<a href="https://www.kaggle.com/amithasanshuvo">
+  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
+<a href="https://www.researchgate.net/profile/Kazi_Amit_Hasan">
+  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/researchgate.svg" />
+</a>
+<br />
 
-PHP / MYSQL / SOLR / FLUTTER / DART / JS / NODE JS / JQUERY / HTML / CSS / SCSS / LESS / BOOSTRAP / LARAVEL / YII2 / CODIGNITER / UNIX / GITHUB / SVN / APACHE / NGINX / REST API / NATIVE SCRIPT / AZURE / GOOGLE API's
 
-##### MOTTO
+## This is Kazi Amit Hasan!
+#### Kaggle Expert (x2) | Undergraduate Research Student
+#### *Currently looking for Data Scientist, Research Assistant Roles!*
+- Data Science and research enthusiast.
+- A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
+- Currently working on Risk Factors Analysis of Musculoskeletal Pain in Clinical Practice.
+- **Latest Publication**: Classification of Parkinson's Disease by Analyzing Multiple Vocal Features Sets *(Accepted in TENSYMP 2020)*
 
-> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+**To know more:**  [Website](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](kaziamithasan89@gmail.com)
 
-####
+Check the repositories section to see my efforts! Hope, you will enjoy it!
 
-<a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/artuurssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
-
-![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
-
----
-⭐️ From [arturssmirnovs](https://github.com/arturssmirnovs)
+⭐️ From [AmitHasanShuvo](https://github.com/AmitHasanShuvo)
