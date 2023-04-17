@@ -1,6 +1,6 @@
 ## Hello World!
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=michealfortunatus&show_icons=true"/>](https://github.com/michealfortunatus/)
 
 <a href="https://www.linkedin.com/in/kazi-amit-hasan/">
   <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -19,6 +19,8 @@
   <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/researchgate.svg" />
 </a>
 <br />
+
+## This is Kazi Amit Hasan!
 
 
 I'm Arturs and i'm full stack web / app developer with more then 10 years experience.
