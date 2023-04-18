@@ -32,7 +32,8 @@ I have always been hard working and goal's focused with proven results.
 #### Backened Development : Python / NodeJS / Django /Flask / MongoDB / ExpressJS
 #### Blockchain Development : Solidity / Web3 JS / Ether JS /Smart contracts
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michealfortunatus_icons=true&locale=en&layout=compact&theme=" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=" alt="rishavchanda" /></p>
+
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=michealfortunatus&show_icons=true"/>](https://github.com/michealfortunatus/)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michealfortunatus&&theme=" alt="fortune" /></p>
