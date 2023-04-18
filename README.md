@@ -18,7 +18,7 @@
 </a>
 
 <br />
- ## A little more about me...  
+ ##<h3> A little more about me...</h3>  
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 
