@@ -24,8 +24,8 @@
 
 
 I'm Fortune and i'm full stack web / blockchain developer with more than 4 years experience.
-I have been working in various fields, starting from crypto currency, finances and ending with human resources.
-I have always been hard working and goal's focused with proven results.
+i have completed 18 plus projects and worked with numerous clients to build and maintain scalable web applications that are intuitive, user-friendly and efficient.
+I have keen eyes for design and user experience, ensuring that appliactions are not only functional but user friendly. 
 
 ## TECH STACK
 #### Frontend Development :Javascript / ReactJS / NextJS /Typescript /SASS /SCSS / Bootstrap / Git and version Control /API
