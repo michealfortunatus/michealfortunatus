@@ -3,7 +3,8 @@
 <p><em>Software Engineer / Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-
+##My Portfolio
+https://fortunedev.netlify.app
 
 
 <a href="https://www.linkedin.com/in/fortune-eso-636b6018a/">
@@ -25,7 +26,7 @@
 
 I'm Fortune and i'm full stack web / blockchain developer with more than 4 years experience.
 i have completed 18 plus projects and worked with numerous clients to build and maintain scalable web applications that are intuitive, user-friendly and efficient.
-I have keen eyes for design and user experience, ensuring that appliactions are not only functional but user friendly. 
+I have keen eyes for design and user experience, ensuring that applications are not only functional but user friendly. 
 
 ## TECH STACK
 #### Frontend Development :Javascript / ReactJS / NextJS /Typescript /SASS /SCSS / Bootstrap / Git and version Control /API
