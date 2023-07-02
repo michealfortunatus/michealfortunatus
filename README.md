@@ -1,4 +1,4 @@
-## <h2> I'm Fortune Eso </h2> <a href="https://fortunedev.netlify.app">My Portfolio</a>
+## <h2> I'm Fortune Eso  <a href="https://fortunedev.netlify.app">My Portfolio</a> </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer / Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
