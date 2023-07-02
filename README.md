@@ -3,8 +3,8 @@
 <p><em>Software Engineer / Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-## My Portfolio
-https://fortunedev.netlify.app
+## My SOCIALS
+
 
 
 <a href="https://www.linkedin.com/in/fortune-eso-636b6018a/">
