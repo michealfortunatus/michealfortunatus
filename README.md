@@ -30,8 +30,8 @@ I have keen eyes for design and user experience, ensuring that applications are 
 
 ## TECH STACK
 #### Frontend Development :Javascript / ReactJS / NextJS /Typescript /SASS /SCSS / Bootstrap / Git and version Control /API
-#### Backened Development : Python / NodeJS / Django /Flask / MongoDB / ExpressJS
-#### Blockchain Development : Solidity / Web3 JS / Ether JS /Smart contracts
+#### Backened Development :  NodeJS / MongoDB / ExpressJS
+#### Blockchain Development : Solidity / Web3 JS / Ethers JS / Hardhat /Truffle /Smart contracts
 
 
 ## STATS
