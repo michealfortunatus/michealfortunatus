@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/fortune-eso-636b6018a/">
   <img align="left" alt="fortune's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/michealfortunatus">
+<a href="https://github.com/DevFortune">
   <img align="left" alt="fortune's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
