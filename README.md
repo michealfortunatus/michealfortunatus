@@ -37,11 +37,11 @@ I have keen eyes for design and user experience, ensuring that applications are 
 ## STATS
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michealfortunatus&show_icons=true&locale=en&layout=compact&theme=" alt="michealfortunatus" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevFortune&show_icons=true&locale=en&layout=compact&theme=" alt="DevFortune" /></p>
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=michealfortunatus&show_icons=true"/>](https://github.com/michealfortunatus/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=DevFortune&show_icons=true"/>](https://github.com/michealfortunatus/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michealfortunatus&&theme=" alt="fortune" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevFortune&&theme=" alt="fortune" /></p>
 
 
 
