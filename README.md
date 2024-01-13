@@ -29,7 +29,7 @@ i have completed 18 plus projects and worked with numerous clients to build and 
 I have keen eyes for design and user experience, ensuring that applications are not only functional but user friendly. 
 
 ## TECH STACK
-#### Frontend Development :Javascript / ReactJS / NextJS /Typescript /SASS /SCSS / Bootstrap / Git and version Control /API
+#### Frontend Development :Javascript / ReactJS / NextJS /Typescript /TailwindCss / Bootstrap / Git and version Control /API
 #### Backened Development :  NodeJS / MongoDB / ExpressJS
 #### Blockchain Development : Solidity / Web3 JS / Ethers JS / Hardhat /Truffle /Smart contracts
 
