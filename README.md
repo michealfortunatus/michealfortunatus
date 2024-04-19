@@ -24,7 +24,7 @@
 
 
 
-I'm Fortune and i'm full stack web / blockchain developer with more than 4 years experience.
+I'm Fortune and i'm full stack web / blockchain developer with more than 5 years experience.
 i have completed 18 plus projects and worked with numerous clients to build and maintain scalable web applications that are intuitive, user-friendly and efficient.
 I have keen eyes for design and user experience, ensuring that applications are not only functional but user friendly. 
 
